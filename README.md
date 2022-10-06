@@ -25,5 +25,5 @@ SQL, MATLAB, and Java
 Alfiki or Afan  
 
 ### 📈 GitHub Stats 
-[![Alfiki's github stats](https://github-readme-stats.vercel.app/api?username=alfikiafan&theme=material-palenight)](https://github.com/alfikiafan)
-[![Alfiki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfikiafan&layout=compact&theme=material-palenight)](https://github.com/alfikiafan)
+[![Alfiki's github stats](https://github-readme-stats.vercel.app/api?username=alfikiafan&theme=rose_pine)](https://github.com/alfikiafan)
+[![Alfiki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfikiafan&layout=compact&theme=rose_pine)](https://github.com/alfikiafan)
