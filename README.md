@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-I'm an informatics student 💻 who loves to learn and shares knowledge 📖!
+I'm an informatics student 💻 who loves to learn and shares knowledge 📖
 </h3> 
 
 <div align="center">  
