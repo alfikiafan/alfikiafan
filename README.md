@@ -20,10 +20,6 @@ I'm an informatics student 💻 who loves to learn and shares knowledge 📖
 **🔭 I’m currently study in**  
 Sebelas Maret University  
 **🌱 I’m currently learning**  
-SQL, MATLAB, and Java  
+Node.js, Laravel, and Kotlin  
 **😄 Pronouns**  
 Alfiki or Afan  
-
-### 📈 GitHub Stats 
-[![Alfiki's github stats](https://github-readme-stats.vercel.app/api?username=alfikiafan&theme=rose_pine)](https://github.com/alfikiafan)
-[![Alfiki's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfikiafan&layout=compact&theme=rose_pine)](https://github.com/alfikiafan)
