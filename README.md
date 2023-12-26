@@ -2,10 +2,6 @@
   Hi there, I'm Alfiki 👋
 </h2>
 
-<h3 align="center">
-I'm an informatics student 💻 who loves to learn and shares knowledge 📖
-</h3> 
-
 <div align="center">  
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfiki/)](https://www.linkedin.com/in/alfiki/) 
@@ -18,8 +14,6 @@ I'm an informatics student 💻 who loves to learn and shares knowledge 📖
 
 ### About Personal
 **🔭 I’m currently study in**  
-Sebelas Maret University  
-**🌱 I’m currently learning**  
-Node.js, Laravel, and Kotlin  
+Sebelas Maret University   
 **😄 Pronouns**  
 Alfiki or Afan  
