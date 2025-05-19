@@ -14,8 +14,6 @@
 - ☀️ I enjoy making things that are not only functional, but thoughtful—where code meets empathy.
 - 🌱 Always learning. Always growing. Currently exploring TensorFlow Extended and scalable ML systems.
 
----
-
 ### Tech Stack
 
 <p align="left">
@@ -29,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
-
 ### Featured Projects
 
 - **Heart Disease Analytics** – A machine learning project that predicts the presence of heart disease using various classification algorithms and data visualization techniques.  
@@ -42,8 +38,6 @@
 - **Kuis Kata Baku** – An interactive web-based quiz to test knowledge of standard and non-standard Indonesian words.  
   🔗 [Live Demo](https://alfikiafan.github.io/kuis-kata-baku/) | [GitHub Repository](https://github.com/alfikiafan/kuis-kata-baku)
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -51,12 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfikiafan&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark_dimmed" alt="Top Languages"/>
 </div>
 
----
-
 ### Connect with Me
 
 <p align="left">
-  <a href="mailto:alfikiafan@gmail.com" target="_blank">
+  <a href="mailto:alfiki.diastama@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/alfiki" target="_blank">
