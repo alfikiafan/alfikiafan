@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alfiki</h1>
-<h3 align="center">Informatics Undergraduate Student at Universitas Sebelas Maret</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alfikiafan" alt="visitor badge"/>
@@ -9,7 +8,6 @@
 
 ### About Me
 
-- 🎓 Final-year Informatics student with a love for building meaningful things.
 - ✨ Passionate about machine learning, backend development, and solving real-world problems with tech.
 - ☀️ I enjoy making things that are not only functional, but thoughtful—where code meets empathy.
 - 🌱 Always learning. Always growing. Currently exploring TensorFlow Extended and scalable ML systems.
