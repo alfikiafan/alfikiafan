@@ -46,9 +46,6 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="mailto:alfiki.diastama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://linkedin.com/in/alfiki" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
