@@ -4,6 +4,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alfikiafan" alt="visitor badge"/>
 </p>
 
+<p align="center">
+  <a href="https://alfiki.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-alfiki.my.id-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alfiki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-alfiki-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://www.kaggle.com/alfikiafan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-alfikiafan-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+</p>
+
 ---
 
 ### About Me
@@ -42,16 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alfikiafan&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark_dimmed" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfikiafan&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark_dimmed" alt="Top Languages"/>
 </div>
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/alfiki" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/alfikiafan" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-</p>
-
----
